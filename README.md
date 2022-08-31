@@ -1,4 +1,4 @@
-![Nice to Meet You](./images/cupid.png)
+<!-- ![Nice to Meet You](./images/cupid.png) -->
 
 ### Hi I'm Raphael 👋
 
