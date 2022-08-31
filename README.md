@@ -1,4 +1,6 @@
-### Hi there 👋
+![Nice to Meet You](./images/cupid.png)
+
+### Hi I'm Raphael 👋
 
 <!--
 **tengxuanp/tengxuanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
